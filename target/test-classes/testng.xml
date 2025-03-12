@@ -1,0 +1,7 @@
+<suite name="Cucumber Suite">
+    <test name="Cucumber Tests">
+        <classes>
+            <class name="org.automation.testingworld.Runner.TestRunner"/>  <!-- Ensure this is your correct package -->
+        </classes>
+    </test>
+</suite>

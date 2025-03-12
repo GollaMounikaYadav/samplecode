@@ -1,0 +1,5 @@
+browserName=chrome
+applicationUrl=https://preprod.isalaam.me/isalaamstaging/sign-in
+userName=mounika@gmail.com
+otp=888888
+signupUrl=https://preprod.isalaam.me/isalaamstaging/sign-up
